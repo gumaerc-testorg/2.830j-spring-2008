@@ -2,14 +2,22 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types:
+- Lecture Videos
+optional_tab_title: Lecture Slides
+optional_text: Slides ([PDF](resources/lecture1 "Open in a new window."))
+parent_title: Lecture Videos
+parent_type: CourseSection
+related_resources_text: ''
+resource_index_text: ''
 resourcetype: Video
 title: "1: Introduction \u2014 Processes and Variation Framework"
 uid: 7d27f372-d196-faf4-5f1f-b2bfa4806703
 video_files:
   archive_url: http://www.archive.org/download/MIT2-830JS08/mit-2.830-s08-lec01_300k.mp4
-  video_captions_file: https://open-learning-course-data-rc.s3.amazonaws.com/2-830j-control-of-manufacturing-processes-sma-6303-spring-2008/a9309caac8135dac880fec6f966289d0_kC2SEiGaqoA.vtt
+  video_captions_file: /courses/2-830j-control-of-manufacturing-processes-sma-6303-spring-2008/a9309caac8135dac880fec6f966289d0_kC2SEiGaqoA.vtt
   video_thumbnail_file: https://img.youtube.com/vi/kC2SEiGaqoA/default.jpg
-  video_transcript_file: https://open-learning-course-data-rc.s3.amazonaws.com/2-830j-control-of-manufacturing-processes-sma-6303-spring-2008/0c0c8559df6f27068ebb505bb0313ef8_kC2SEiGaqoA.pdf
+  video_transcript_file: /courses/2-830j-control-of-manufacturing-processes-sma-6303-spring-2008/0c0c8559df6f27068ebb505bb0313ef8_kC2SEiGaqoA.pdf
 video_metadata:
   youtube_id: kC2SEiGaqoA
 ---

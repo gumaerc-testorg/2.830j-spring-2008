@@ -2,14 +2,22 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types:
+- Lecture Videos
+optional_tab_title: Lecture Slides
+optional_text: Slides ([PDF](resources/lecture20 "Open in a new window."))
+parent_title: Lecture Videos
+parent_type: CourseSection
+related_resources_text: ''
+resource_index_text: ''
 resourcetype: Video
 title: '20: Case Study 2: Cycle to Cycle Control'
 uid: 69da8885-ced9-28e3-75e3-3f2b5e8b0f4f
 video_files:
   archive_url: http://www.archive.org/download/MIT2-830JS08/mit-2.830-s08-lec20_300k.mp4
-  video_captions_file: https://open-learning-course-data-rc.s3.amazonaws.com/2-830j-control-of-manufacturing-processes-sma-6303-spring-2008/9a4a02126d7c58938133dcfdefee96cb_qyAoSHisZtU.vtt
+  video_captions_file: /courses/2-830j-control-of-manufacturing-processes-sma-6303-spring-2008/9a4a02126d7c58938133dcfdefee96cb_qyAoSHisZtU.vtt
   video_thumbnail_file: https://img.youtube.com/vi/qyAoSHisZtU/default.jpg
-  video_transcript_file: https://open-learning-course-data-rc.s3.amazonaws.com/2-830j-control-of-manufacturing-processes-sma-6303-spring-2008/929ed6091bf0e50076df1eaa2902cbfa_qyAoSHisZtU.pdf
+  video_transcript_file: /courses/2-830j-control-of-manufacturing-processes-sma-6303-spring-2008/929ed6091bf0e50076df1eaa2902cbfa_qyAoSHisZtU.pdf
 video_metadata:
   youtube_id: qyAoSHisZtU
 ---
