@@ -1,6 +1,7 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
@@ -11,6 +12,7 @@ parent_type: CourseSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: '20: Case Study 2: Cycle to Cycle Control'
 uid: 69da8885-ced9-28e3-75e3-3f2b5e8b0f4f
 video_files:

@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Videos
 parent_type: CourseSection
+parent_uid: db787a5c-faf9-0e0b-17f7-dd98e5f8fcc8
 resourcetype: Document
 title: Process Capability & Alternative SPC Methods
 uid: cb5692ef-a219-13d4-7ae6-d639da04edbf

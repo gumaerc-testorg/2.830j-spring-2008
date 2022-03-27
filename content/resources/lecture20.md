@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Videos
 parent_type: CourseSection
+parent_uid: db787a5c-faf9-0e0b-17f7-dd98e5f8fcc8
 resourcetype: Document
 title: Control of Manufacturing Processes
 uid: a1f14d79-9b70-7e60-8c86-fad39bd74665

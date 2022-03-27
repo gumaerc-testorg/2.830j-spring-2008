@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 71b95f3c-366b-2063-b03e-e96949909613
 resourcetype: Document
 title: projects_schedu.pdf
 uid: bccdcf38-b8bd-7c97-2b70-df5edb6ec30a

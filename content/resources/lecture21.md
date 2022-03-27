@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Videos
 parent_type: CourseSection
+parent_uid: db787a5c-faf9-0e0b-17f7-dd98e5f8fcc8
 resourcetype: Document
 title: 'Case study 3: Spatial Modeling'
 uid: ba4baec8-0788-c84d-2c93-d47fb2479b6c

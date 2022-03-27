@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Exams
 parent_type: CourseSection
+parent_uid: 527f1bbf-b4e5-ba9c-1c01-ae9938e0b362
 resourcetype: Document
 title: q2_slides.pdf
 uid: e06fd729-0220-5cbc-477c-0c2225051130

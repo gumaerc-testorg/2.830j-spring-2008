@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Exams
 parent_type: CourseSection
+parent_uid: 527f1bbf-b4e5-ba9c-1c01-ae9938e0b362
 resourcetype: Document
 title: dof.pdf
 uid: e595bfb6-aba2-6725-5c22-60c08650b97b

@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Exams
 parent_type: CourseSection
+parent_uid: 527f1bbf-b4e5-ba9c-1c01-ae9938e0b362
 resourcetype: Other
 title: cp_example.xls
 uid: 17b3e749-d586-542c-310b-fb7d55247270

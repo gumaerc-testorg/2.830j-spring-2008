@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
+parent_uid: d11fb6f9-ce33-a870-3569-226ada4cef00
 resourcetype: Other
 title: tungsten.jmp
 uid: 35efafe9-9683-7c80-5cb7-5e60fff7ddf9

@@ -1,6 +1,7 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
@@ -11,6 +12,7 @@ parent_type: CourseSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: '5: Probability Models, Parameter Estimation, and Sampling'
 uid: 55329956-4839-f5c8-81fd-3e5c8fe7f5cc
 video_files:

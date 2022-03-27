@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
+parent_uid: d11fb6f9-ce33-a870-3569-226ada4cef00
 resourcetype: Other
 title: tungsten.xls
 uid: 277ccd79-d975-ab2a-ca20-a68b3a4ae3e6

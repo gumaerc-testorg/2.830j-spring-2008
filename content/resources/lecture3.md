@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Videos
 parent_type: CourseSection
+parent_uid: db787a5c-faf9-0e0b-17f7-dd98e5f8fcc8
 resourcetype: Document
 title: "Process Variation \u2013Physical Causes and Interpreting Data"
 uid: 4c1114cf-7da5-cf62-4bbd-7156c0a0f4a0

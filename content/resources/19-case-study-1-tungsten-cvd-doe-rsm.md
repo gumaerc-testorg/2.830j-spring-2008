@@ -1,6 +1,7 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
@@ -11,6 +12,7 @@ parent_type: CourseSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: '19: Case Study 1: Tungsten CVD DOE/RSM'
 uid: ebe0f35d-a2db-cd14-1991-8adc4ac35e3a
 video_files:

@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Videos
 parent_type: CourseSection
+parent_uid: db787a5c-faf9-0e0b-17f7-dd98e5f8fcc8
 resourcetype: Document
 title: Process Robustness
 uid: d2f1a897-a835-6e89-bc2b-f3e71b51c014

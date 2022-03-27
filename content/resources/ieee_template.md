@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 71b95f3c-366b-2063-b03e-e96949909613
 resourcetype: Document
 title: ieee_template.pdf
 uid: ecf0b94b-3b2d-8e41-8adc-f4bd6c4357e4

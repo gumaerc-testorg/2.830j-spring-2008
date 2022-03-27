@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
+parent_uid: d11fb6f9-ce33-a870-3569-226ada4cef00
 resourcetype: Document
 title: process_con_over.pdf
 uid: b02e4170-9ac7-061f-08fe-061d7c149599

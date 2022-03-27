@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Exams
 parent_type: CourseSection
+parent_uid: 527f1bbf-b4e5-ba9c-1c01-ae9938e0b362
 resourcetype: Other
 title: Drain_P4.xls
 uid: 75b1439d-3aa4-533c-ae05-0faa6f785c7d

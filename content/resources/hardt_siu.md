@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
+parent_uid: d11fb6f9-ce33-a870-3569-226ada4cef00
 resourcetype: Document
 title: hardt_siu.pdf
 uid: 248f8a14-f9d1-283f-2912-f59f0659ff83

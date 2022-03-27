@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
+parent_uid: d11fb6f9-ce33-a870-3569-226ada4cef00
 resourcetype: Document
 title: kurtosis.pdf
 uid: 679617ea-f3fa-88b9-121d-dfcd4db1c5c2

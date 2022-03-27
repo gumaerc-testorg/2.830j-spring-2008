@@ -1,6 +1,7 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
@@ -12,6 +13,7 @@ parent_type: CourseSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: '22: Case Study 4: "Modeling the Embossing/Imprinting of Thermoplastic Layers."'
 uid: 02c80343-9f6d-728a-98e9-a3f64dc2e309
 video_files:

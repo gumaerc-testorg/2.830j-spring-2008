@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Videos
 parent_type: CourseSection
+parent_uid: db787a5c-faf9-0e0b-17f7-dd98e5f8fcc8
 resourcetype: Document
 title: 'Introduction to Analysis of Variance: a tool for assessing input-output relationships'
 uid: 30fbe46c-74c5-2e67-c8df-09950230d6c4
