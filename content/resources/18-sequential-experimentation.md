@@ -5,9 +5,10 @@ end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+ocw_type: ''
 optional_tab_title: Lecture Slides
-optional_text: Slides ([PDF](resources/lecture18 "Open in a new window.")) (Courtesy
-  of Dan Frey. Used with permission.)
+optional_text: Slides ([PDF](/courses/2-830j-control-of-manufacturing-processes-sma-6303-spring-2008/resources/lecture18))
+  (Courtesy of Dan Frey. Used with permission.)
 parent_title: Lecture Videos
 parent_type: CourseSection
 related_resources_text: ''
@@ -30,3 +31,6 @@ video_metadata:
 **I****nstructor:** Dan Frey
 
 **Note:** The slides used in this lecture can be found at the Lecture Slides tab
+
+
+

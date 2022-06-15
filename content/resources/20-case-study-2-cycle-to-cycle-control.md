@@ -5,8 +5,9 @@ end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+ocw_type: ''
 optional_tab_title: Lecture Slides
-optional_text: Slides ([PDF](resources/lecture20 "Open in a new window."))
+optional_text: Slides ([PDF](/courses/2-830j-control-of-manufacturing-processes-sma-6303-spring-2008/resources/lecture20))
 parent_title: Lecture Videos
 parent_type: CourseSection
 related_resources_text: ''
@@ -29,3 +30,6 @@ video_metadata:
 **Instructor:** David Hardt
 
 **Note:** The slides used in this lecture can be found at the Lecture Slides tab
+
+
+

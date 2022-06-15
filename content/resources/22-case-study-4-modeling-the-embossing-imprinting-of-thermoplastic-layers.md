@@ -5,8 +5,9 @@ end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+ocw_type: ''
 optional_tab_title: Lecture Slides
-optional_text: Slides ([PDF - 2.4MB](resources/lecture22 "Open in a new window."))
+optional_text: Slides ([PDF - 2.4MB](/courses/2-830j-control-of-manufacturing-processes-sma-6303-spring-2008/resources/lecture22))
   (Courtesy of Hayden Taylor. Used with permission.)
 parent_title: Lecture Videos
 parent_type: CourseSection
@@ -30,3 +31,6 @@ video_metadata:
 **Instructor:** Hayden Taylor
 
 **Note:** The slides used in this lecture can be found at the Lecture Slides tab
+
+
+
