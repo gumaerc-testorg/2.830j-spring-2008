@@ -6,6 +6,7 @@ file: /courses/2-830j-control-of-manufacturing-processes-sma-6303-spring-2008/cb
 file_type: application/pdf
 learning_resource_types:
 - Lecture Videos
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Videos
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: Process Capability & Alternative SPC Methods
 uid: cb5692ef-a219-13d4-7ae6-d639da04edbf
 ---
 This resource contains the infromation about the detecting mean shifts:chart sensitivity, design specifications.
-

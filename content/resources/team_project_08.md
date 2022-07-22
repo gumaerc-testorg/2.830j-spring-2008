@@ -6,6 +6,7 @@ file: /courses/2-830j-control-of-manufacturing-processes-sma-6303-spring-2008/9c
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: team_project_08.pdf
 uid: 9cbaacf3-e7b3-cd79-343a-9d56f9619b23
 ---
 This resource discusses about topical areas of the team projects such as process diagnosis, process improvement and others.
-

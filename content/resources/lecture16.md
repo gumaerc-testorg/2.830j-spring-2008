@@ -6,6 +6,7 @@ file: /courses/2-830j-control-of-manufacturing-processes-sma-6303-spring-2008/d2
 file_type: application/pdf
 learning_resource_types:
 - Lecture Videos
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Videos
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: Process Robustness
 uid: d2f1a897-a835-6e89-bc2b-f3e71b51c014
 ---
 This resource contains the information about the optimization basics, empirical response surface methods, variation modeling and process robustness.
-

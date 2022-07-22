@@ -6,6 +6,7 @@ file: /courses/2-830j-control-of-manufacturing-processes-sma-6303-spring-2008/d6
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: ps2.pdf
 uid: d610fa6a-2d4e-b515-79ba-e253c792d728
 ---
 This resource provides problems based on process modeling ideas, process control challenge and others.
-

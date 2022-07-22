@@ -6,6 +6,7 @@ file: /courses/2-830j-control-of-manufacturing-processes-sma-6303-spring-2008/b5
 file_type: application/pdf
 learning_resource_types:
 - Lecture Videos
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Videos
 parent_type: CourseSection
@@ -16,4 +17,3 @@ uid: b5882a96-aacc-8d8a-7287-b818c2009735
 ---
 This resource contains the information about the microfabrication, semiconductor fabrication process and manufacturing 
 process control.
-

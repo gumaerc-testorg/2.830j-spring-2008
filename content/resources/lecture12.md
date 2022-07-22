@@ -6,6 +6,7 @@ file: /courses/2-830j-control-of-manufacturing-processes-sma-6303-spring-2008/84
 file_type: application/pdf
 learning_resource_types:
 - Lecture Videos
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Videos
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: Full Factorial Models
 uid: 843c9b0f-4a89-ba3d-36fc-06acd5e5da6a
 ---
 This resource contains the information about the general  linear model and ANOVA for multiple effects.
-

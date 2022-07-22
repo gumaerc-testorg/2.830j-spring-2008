@@ -6,6 +6,7 @@ file: /courses/2-830j-control-of-manufacturing-processes-sma-6303-spring-2008/89
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: sample_presenta.pdf
 uid: 899eb1b1-2c4d-8939-b88d-e1f4692d1d70
 ---
 This resource discusses about plasma etch proces physics, indutrial practises and others.
-

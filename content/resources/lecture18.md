@@ -6,6 +6,7 @@ file: /courses/2-830j-control-of-manufacturing-processes-sma-6303-spring-2008/89
 file_type: application/pdf
 learning_resource_types:
 - Lecture Videos
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Videos
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: Experimentation and Robust Design of Engineering Systems
 uid: 8933e9ac-9722-df0f-075a-be386e070c6f
 ---
 This resource contains the information about the history, motivation, adaptive experimentation and robust design.
-

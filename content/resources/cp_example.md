@@ -5,6 +5,7 @@ file: /courses/2-830j-control-of-manufacturing-processes-sma-6303-spring-2008/17
 file_type: application/msword
 learning_resource_types:
 - Exams
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Exams
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: cp_example.xls
 uid: 17b3e749-d586-542c-310b-fb7d55247270
 ---
 This resource is a support file for exams section.
-

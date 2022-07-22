@@ -6,6 +6,7 @@ file: /courses/2-830j-control-of-manufacturing-processes-sma-6303-spring-2008/8c
 file_type: application/pdf
 learning_resource_types:
 - Lecture Videos
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Videos
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: Aliasing and Higher Order Models
 uid: 8cad280b-182d-ed59-7a05-13c5823ae61b
 ---
 This resource contains the information about the fractional factorial designs, implications for model construction and process optimization using DOE.
-

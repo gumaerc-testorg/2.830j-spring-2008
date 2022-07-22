@@ -5,6 +5,7 @@ file: /courses/2-830j-control-of-manufacturing-processes-sma-6303-spring-2008/52
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: ps4.pdf
 uid: 52354438-1a56-421e-43bf-e8dc39c21846
 ---
 This resource provides problems based on cusum and ewma charts and others.
-

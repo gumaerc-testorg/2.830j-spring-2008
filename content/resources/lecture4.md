@@ -6,6 +6,7 @@ file: /courses/2-830j-control-of-manufacturing-processes-sma-6303-spring-2008/85
 file_type: application/pdf
 learning_resource_types:
 - Lecture Videos
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Videos
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: Probability Models of Manufacturing Processes
 uid: 85c4a087-a7b3-cc8f-f1e2-0892a3368493
 ---
 This resource contains the information about the turning process, brake bending of sheet and bending process.
-

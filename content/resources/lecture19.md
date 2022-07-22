@@ -6,6 +6,7 @@ file: /courses/2-830j-control-of-manufacturing-processes-sma-6303-spring-2008/68
 file_type: application/pdf
 learning_resource_types:
 - Lecture Videos
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Videos
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: 'Case Study: Tungsten CVD DOE/RSM'
 uid: 68c88754-c21b-3b17-88c4-9e74eade0f63
 ---
 This resource contains the information about the tungsten CVD outputs, step coverage & surface roughness and experimental design goals.
-

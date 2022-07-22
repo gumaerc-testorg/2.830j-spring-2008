@@ -5,6 +5,7 @@ file: /courses/2-830j-control-of-manufacturing-processes-sma-6303-spring-2008/b4
 file_type: application/msword
 learning_resource_types:
 - Readings
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: variancecomponents.xls
 uid: b49fd2f3-da38-cda7-bf5d-523b4b5e23b5
 ---
 This is a support resource for the readings section.
-

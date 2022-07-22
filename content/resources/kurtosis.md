@@ -5,6 +5,7 @@ file: /courses/2-830j-control-of-manufacturing-processes-sma-6303-spring-2008/67
 file_type: application/pdf
 learning_resource_types:
 - Readings
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: kurtosis.pdf
 uid: 679617ea-f3fa-88b9-121d-dfcd4db1c5c2
 ---
 This resource discusses about the handout based on kurtosis.
-

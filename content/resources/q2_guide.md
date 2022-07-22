@@ -6,6 +6,7 @@ file: /courses/2-830j-control-of-manufacturing-processes-sma-6303-spring-2008/d0
 file_type: application/pdf
 learning_resource_types:
 - Exams
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Exams
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: q2_guide.pdf
 uid: d01b1ee2-4e94-6983-c4ad-1e5d03aa0da6
 ---
 This resource provides a study guide for quiz 2 based on the control of manufacturing processes.
-

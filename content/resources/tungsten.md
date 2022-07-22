@@ -5,6 +5,7 @@ file: /courses/2-830j-control-of-manufacturing-processes-sma-6303-spring-2008/27
 file_type: application/msword
 learning_resource_types:
 - Readings
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: tungsten.xls
 uid: 277ccd79-d975-ab2a-ca20-a68b3a4ae3e6
 ---
 This is a suppot file for readings section.
-

@@ -6,6 +6,7 @@ file: /courses/2-830j-control-of-manufacturing-processes-sma-6303-spring-2008/15
 file_type: application/pdf
 learning_resource_types:
 - Lecture Videos
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Videos
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: Modeling Testing and Fractional Factorial Designs
 uid: 1507eca4-108c-e5ff-0b83-32897e3197d3
 ---
 This resource contains the information about the full factorial models and generalization.
-

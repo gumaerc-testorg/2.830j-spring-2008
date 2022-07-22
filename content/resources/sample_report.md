@@ -6,6 +6,7 @@ file: /courses/2-830j-control-of-manufacturing-processes-sma-6303-spring-2008/59
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: sample_report.pdf
 uid: 598f37e4-3f52-4510-73a2-ec8544a0209f
 ---
 This resource discusses about concepts of problem definition, experiments and data, full factorial experiment within operating range.
-

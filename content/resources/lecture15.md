@@ -6,6 +6,7 @@ file: /courses/2-830j-control-of-manufacturing-processes-sma-6303-spring-2008/aa
 file_type: application/pdf
 learning_resource_types:
 - Lecture Videos
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Videos
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: Response Surface Modeling andProcess Optimization
 uid: aad0d820-c4df-6d7f-3cdc-c4a9e7cbdd78
 ---
 This resource contains the information about the aliasing patterns, response surface modeling and process optimization using DOE and RSM.
-

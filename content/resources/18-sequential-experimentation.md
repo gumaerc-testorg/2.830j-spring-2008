@@ -5,6 +5,7 @@ end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: ''
 optional_tab_title: Lecture Slides
 optional_text: Slides ([PDF](/courses/2-830j-control-of-manufacturing-processes-sma-6303-spring-2008/resources/lecture18))
@@ -31,6 +32,4 @@ video_metadata:
 **I****nstructor:** Dan Frey
 
 **Note:** The slides used in this lecture can be found at the Lecture Slides tab
-
-
 
