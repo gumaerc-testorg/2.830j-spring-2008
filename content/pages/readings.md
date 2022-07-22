@@ -1,5 +1,9 @@
 ---
 content_type: page
+description: This section provides the readings assigned for the course.
+learning_resource_types:
+- Readings
+ocw_type: CourseSection
 title: Readings
 uid: d11fb6f9-ce33-a870-3569-226ada4cef00
 ---
@@ -30,7 +34,7 @@ Introduction — processes and variation framework
 {{< tdopen >}}
 
 
-Process control overview ([PDF]({{< baseurl >}}/resources/process_con_over))
+Process control overview ({{% resource_link b02e4170-9ac7-061f-08fe-061d7c149599 "PDF" %}})
 
 Boning, Duane S., et al. "A General Semiconductor Process Modeling Framework." _IEEE Transactions on Semiconductor Manufacturing_ 5 (November 1992): 266-280.
 
@@ -48,7 +52,7 @@ Probability models, parameter estimation, and sampling
 {{< tdopen >}}
 
 
-Kurtosis handout ([PDF]({{< baseurl >}}/resources/kurtosis))
+Kurtosis handout ({{% resource_link 679617ea-f3fa-88b9-121d-dfcd4db1c5c2 "PDF" %}})
 
 
 {{< tdclose >}}
@@ -84,7 +88,7 @@ Nested variance components
 
 Drain, Davis. "Variance Components and Process Sampling Design." Chapter 3 in _Statistical Methods for Industrial Process Control_. New York, NY: Chapman & Hall, 1996. ISBN: 9780412085116.
 
-Example, nested variance components ([XLS]({{< baseurl >}}/resources/variancecomponents))
+Example, nested variance components ({{% resource_link b49fd2f3-da38-cda7-bf5d-523b4b5e23b5 "XLS" %}})
 
 
 {{< tdclose >}}
@@ -100,9 +104,9 @@ Case study 1: tungsten CVD DOE/RSM
 {{< tdopen >}}
 
 
-Example, tungsten RSM ([XLS]({{< baseurl >}}/resources/tungsten))
+Example, tungsten RSM ({{% resource_link 277ccd79-d975-ab2a-ca20-a68b3a4ae3e6 "XLS" %}})
 
-Example, tungsten RSM ([JMP]({{< baseurl >}}/resources/tungsten-1))
+Example, tungsten RSM ({{% resource_link 35efafe9-9683-7c80-5cb7-5e60fff7ddf9 "JMP" %}})
 
 
 {{< tdclose >}}

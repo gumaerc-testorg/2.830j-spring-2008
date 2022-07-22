@@ -1,6 +1,11 @@
 ---
 content_type: video_gallery
+description: This section provides lecture videos on the control of manufacturing
+  processes.
 is_media_gallery: true
+learning_resource_types:
+- Lecture Videos
+ocw_type: CourseSection
 title: Lecture Videos
 uid: db787a5c-faf9-0e0b-17f7-dd98e5f8fcc8
 videos:
