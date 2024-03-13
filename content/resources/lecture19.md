@@ -3,6 +3,7 @@ content_type: resource
 description: This resource contains the information about the tungsten CVD outputs,
   step coverage & surface roughness and experimental design goals.
 file: /courses/2-830j-control-of-manufacturing-processes-sma-6303-spring-2008/68c88754c21b3b1788c49e74eade0f63_lecture19.pdf
+file_size: 159911
 file_type: application/pdf
 learning_resource_types:
 - Lecture Videos

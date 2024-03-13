@@ -3,6 +3,7 @@ content_type: resource
 description: This resource contains the information about the statistics, sampling
   to Determine parent probability distribution and sampling and estimation.
 file: /courses/2-830j-control-of-manufacturing-processes-sma-6303-spring-2008/207e5512ca89b010a3845a83b72f68be_lecture6.pdf
+file_size: 609850
 file_type: application/pdf
 learning_resource_types:
 - Lecture Videos

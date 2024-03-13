@@ -3,6 +3,7 @@ content_type: resource
 description: This resource contains the information about the process control hierarchy,
   random disturbances and the dynamics of disturbances.
 file: /courses/2-830j-control-of-manufacturing-processes-sma-6303-spring-2008/a1f14d799b707e608c86fad39bd74665_lecture20.pdf
+file_size: 704782
 file_type: application/pdf
 learning_resource_types:
 - Lecture Videos
