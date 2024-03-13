@@ -3,6 +3,7 @@ content_type: resource
 description: This resource provides useful data for anova during model fitting and
   testing.
 file: /courses/2-830j-control-of-manufacturing-processes-sma-6303-spring-2008/e595bfb6aba267255c2260c08650b97b_dof.pdf
+file_size: 71033
 file_type: application/pdf
 learning_resource_types:
 - Exams

@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: /courses/2-830j-control-of-manufacturing-processes-sma-6303-spring-2008/c42c1310dc135719b84d536d1bc48ff7_qvX-3FWgAVA.vtt
+file_size: 154485
 file_type: application/x-subrip
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

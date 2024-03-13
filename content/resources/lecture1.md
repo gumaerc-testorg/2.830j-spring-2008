@@ -3,6 +3,7 @@ content_type: resource
 description: This resource contains the information about the syllabus details, team
   projects and manufacturing process control.
 file: /courses/2-830j-control-of-manufacturing-processes-sma-6303-spring-2008/e46d70fdb4ff60dbc458a9f22b92002e_lecture1.pdf
+file_size: 184620
 file_type: application/pdf
 learning_resource_types:
 - Lecture Videos

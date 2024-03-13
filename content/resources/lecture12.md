@@ -3,6 +3,7 @@ content_type: resource
 description: This resource contains the information about the general  linear model
   and ANOVA for multiple effects.
 file: /courses/2-830j-control-of-manufacturing-processes-sma-6303-spring-2008/843c9b0f4a89ba3d36fc06acd5e5da6a_lecture12.pdf
+file_size: 561719
 file_type: application/pdf
 learning_resource_types:
 - Lecture Videos

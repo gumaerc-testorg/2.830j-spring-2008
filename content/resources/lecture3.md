@@ -3,6 +3,7 @@ content_type: resource
 description: This resource contains the information about the modes of geometry change,
   intensity of energy exchange and process taxonomy for control.
 file: /courses/2-830j-control-of-manufacturing-processes-sma-6303-spring-2008/4c1114cf7da5cf624bbd7156c0a0f4a0_lecture3.pdf
+file_size: 1335166
 file_type: application/pdf
 learning_resource_types:
 - Lecture Videos

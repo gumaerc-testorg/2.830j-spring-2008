@@ -3,6 +3,7 @@ content_type: resource
 description: This resource provides problems based on qq plots and testing the assumption
   of normality, control charts and others.
 file: /courses/2-830j-control-of-manufacturing-processes-sma-6303-spring-2008/6b7b05e26179fd8ef3510d4672047296_ps3.pdf
+file_size: 97279
 file_type: application/pdf
 learning_resource_types:
 - Assignments
