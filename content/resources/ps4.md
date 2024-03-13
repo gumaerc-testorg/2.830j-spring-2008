@@ -2,6 +2,7 @@
 content_type: resource
 description: This resource provides problems based on cusum and ewma charts and others.
 file: /courses/2-830j-control-of-manufacturing-processes-sma-6303-spring-2008/523544381a56421e43bfe8dc39c21846_ps4.pdf
+file_size: 27159
 file_type: application/pdf
 learning_resource_types:
 - Assignments

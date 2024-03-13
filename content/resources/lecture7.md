@@ -3,6 +3,7 @@ content_type: resource
 description: This resource contains the information Xbar and S charts, data sampling
   and sequential averages.
 file: /courses/2-830j-control-of-manufacturing-processes-sma-6303-spring-2008/32c071efec280c555ecd79d24a3b2309_lecture7.pdf
+file_size: 282266
 file_type: application/pdf
 learning_resource_types:
 - Lecture Videos

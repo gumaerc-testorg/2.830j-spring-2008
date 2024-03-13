@@ -3,6 +3,7 @@ content_type: resource
 description: This resource contains the information about the Xbar and S, alternative
   control charts like moving average, EWMA and CUSUM.
 file: /courses/2-830j-control-of-manufacturing-processes-sma-6303-spring-2008/b67392646ef8c39c9f2eb1a9bdb01120_lecture9.pdf
+file_size: 796725
 file_type: application/pdf
 learning_resource_types:
 - Lecture Videos
