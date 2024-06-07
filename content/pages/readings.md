@@ -122,7 +122,7 @@ Case study 2: cycle to cycle control
 {{< tdopen >}}
 
 
-Hardt, D. E., and Tsz-Sin Siu. "{{% resource_link "b45b337b-66ee-4549-a798-b586909618f5" "Cycle to Cycle Manufacturing Process Control" %}}." _SMA_, 2002.
+Hardt, D. E., and Tsz-Sin Siu. "[Cycle to Cycle Manufacturing Process Control](http://dspace.mit.edu/handle/1721.1/4026)." _SMA_, 2002.
 
 Rzepniewski, Adam K., et al. "Cycle-to-Cycle Control of Multivariable Manufacturing Processes with Process Model Uncertainty." _ASME International Mechanical Engineering Congress and Exposition_ (2004): IMECE2004-61783.
 
