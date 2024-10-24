@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This is a support file for the exams section.
-file: /courses/2-830j-control-of-manufacturing-processes-sma-6303-spring-2008/75b1439d3aa4533cae050faa6f785c7d_Drain_P4.xls
+file: /ol-ocw-studio-app/courses/2-830j-control-of-manufacturing-processes-sma-6303-spring-2008/75b1439d3aa4533cae050faa6f785c7d_Drain_P4.xls
 file_size: 19968
 file_type: application/msword
 learning_resource_types:

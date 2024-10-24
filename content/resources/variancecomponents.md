@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This is a support resource for the readings section.
-file: /courses/2-830j-control-of-manufacturing-processes-sma-6303-spring-2008/b49fd2f3da38cda7bf5d523b4b5e23b5_variancecomponents.xls
+file: /ol-ocw-studio-app/courses/2-830j-control-of-manufacturing-processes-sma-6303-spring-2008/b49fd2f3da38cda7bf5d523b4b5e23b5_variancecomponents.xls
 file_size: 48128
 file_type: application/msword
 learning_resource_types:

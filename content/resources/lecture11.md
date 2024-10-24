@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains the information about the interpreting outputs
   and injection molding data.
-file: /courses/2-830j-control-of-manufacturing-processes-sma-6303-spring-2008/30fbe46c74c52e67c8df09950230d6c4_lecture11.pdf
+file: /ol-ocw-studio-app/courses/2-830j-control-of-manufacturing-processes-sma-6303-spring-2008/30fbe46c74c52e67c8df09950230d6c4_lecture11.pdf
 file_size: 701588
 file_type: application/pdf
 learning_resource_types:

@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains the information about the full factorial models
   and generalization.
-file: /courses/2-830j-control-of-manufacturing-processes-sma-6303-spring-2008/1507eca4108ce5ff0b8332897e3197d3_lecture13.pdf
+file: /ol-ocw-studio-app/courses/2-830j-control-of-manufacturing-processes-sma-6303-spring-2008/1507eca4108ce5ff0b8332897e3197d3_lecture13.pdf
 file_size: 492876
 file_type: application/pdf
 learning_resource_types:
