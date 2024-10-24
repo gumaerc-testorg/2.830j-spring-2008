@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains the information about the aliasing patterns, response
   surface modeling and process optimization using DOE and RSM.
-file: /courses/2-830j-control-of-manufacturing-processes-sma-6303-spring-2008/aad0d820c4df6d7f3cdcc4a9e7cbdd78_lecture15.pdf
+file: /ol-ocw-studio-app/courses/2-830j-control-of-manufacturing-processes-sma-6303-spring-2008/aad0d820c4df6d7f3cdcc4a9e7cbdd78_lecture15.pdf
 file_size: 594356
 file_type: application/pdf
 learning_resource_types:
