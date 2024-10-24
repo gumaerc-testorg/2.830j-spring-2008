@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource discusses about preparation of papers for ieee transactions
   and others.
-file: /courses/2-830j-control-of-manufacturing-processes-sma-6303-spring-2008/ecf0b94b3b2d8e418adcf4bd6c4357e4_ieee_template.pdf
+file: /ol-ocw-studio-app/courses/2-830j-control-of-manufacturing-processes-sma-6303-spring-2008/ecf0b94b3b2d8e418adcf4bd6c4357e4_ieee_template.pdf
 file_size: 160467
 file_type: application/pdf
 learning_resource_types:
