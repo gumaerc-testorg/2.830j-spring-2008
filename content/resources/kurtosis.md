@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource discusses about the handout based on kurtosis.
-file: /ol-ocw-studio-app/courses/2-830j-control-of-manufacturing-processes-sma-6303-spring-2008/679617eaf3fa88b9121ddfcd4db1c5c2_kurtosis.pdf
+file: /courses/2-830j-control-of-manufacturing-processes-sma-6303-spring-2008/679617eaf3fa88b9121ddfcd4db1c5c2_kurtosis.pdf
 file_size: 89615
 file_type: application/pdf
 learning_resource_types:

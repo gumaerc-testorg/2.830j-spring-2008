@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /ol-ocw-studio-app/courses/2-830j-control-of-manufacturing-processes-sma-6303-spring-2008/77c74982fa53c3be8755d42464114006_sol6.pdf
+file: /courses/2-830j-control-of-manufacturing-processes-sma-6303-spring-2008/77c74982fa53c3be8755d42464114006_sol6.pdf
 file_size: 277802
 file_type: application/pdf
 learning_resource_types:

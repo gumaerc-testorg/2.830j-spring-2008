@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This is a suppot file for readings section.
-file: /ol-ocw-studio-app/courses/2-830j-control-of-manufacturing-processes-sma-6303-spring-2008/277ccd79d975ab2aca20a68b3a4ae3e6_tungsten.xls
+file: /courses/2-830j-control-of-manufacturing-processes-sma-6303-spring-2008/277ccd79d975ab2aca20a68b3a4ae3e6_tungsten.xls
 file_size: 14848
 file_type: application/msword
 learning_resource_types:

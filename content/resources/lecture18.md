@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains the information about the history, motivation,
   adaptive experimentation and robust design.
-file: /ol-ocw-studio-app/courses/2-830j-control-of-manufacturing-processes-sma-6303-spring-2008/8933e9ac9722df0f075abe386e070c6f_lecture18.pdf
+file: /courses/2-830j-control-of-manufacturing-processes-sma-6303-spring-2008/8933e9ac9722df0f075abe386e070c6f_lecture18.pdf
 file_size: 254521
 file_type: application/pdf
 learning_resource_types:
