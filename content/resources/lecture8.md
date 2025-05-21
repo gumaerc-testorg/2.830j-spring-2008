@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains the infromation about the detecting mean shifts:chart
   sensitivity, design specifications.
-file: /ol-ocw-studio-app/courses/2-830j-control-of-manufacturing-processes-sma-6303-spring-2008/cb5692efa21913d47ae6d639da04edbf_lecture8.pdf
+file: /courses/2-830j-control-of-manufacturing-processes-sma-6303-spring-2008/cb5692efa21913d47ae6d639da04edbf_lecture8.pdf
 file_size: 321888
 file_type: application/pdf
 learning_resource_types:

@@ -2,7 +2,7 @@
 content_type: resource
 description: "This resource contains the information about the spatial trends, radial\
   \ sampling plan and surface regression \u2013radial pattern."
-file: /ol-ocw-studio-app/courses/2-830j-control-of-manufacturing-processes-sma-6303-spring-2008/ba4baec80788c84d2c93d47fb2479b6c_lecture21.pdf
+file: /courses/2-830j-control-of-manufacturing-processes-sma-6303-spring-2008/ba4baec80788c84d2c93d47fb2479b6c_lecture21.pdf
 file_size: 362675
 file_type: application/pdf
 learning_resource_types:

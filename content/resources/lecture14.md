@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains the information about the fractional factorial
   designs, implications for model construction and process optimization using DOE.
-file: /ol-ocw-studio-app/courses/2-830j-control-of-manufacturing-processes-sma-6303-spring-2008/8cad280b182ded597a0513c5823ae61b_lecture14.pdf
+file: /courses/2-830j-control-of-manufacturing-processes-sma-6303-spring-2008/8cad280b182ded597a0513c5823ae61b_lecture14.pdf
 file_size: 405595
 file_type: application/pdf
 learning_resource_types:
