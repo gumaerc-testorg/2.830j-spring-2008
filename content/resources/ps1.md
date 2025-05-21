@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource provides problems based on key measures of output geometry,
   variables for controlling output processes.
-file: /ol-ocw-studio-app/courses/2-830j-control-of-manufacturing-processes-sma-6303-spring-2008/8e428e2e84364954fc97c3d477b3328f_ps1.pdf
+file: /courses/2-830j-control-of-manufacturing-processes-sma-6303-spring-2008/8e428e2e84364954fc97c3d477b3328f_ps1.pdf
 file_size: 74442
 file_type: application/pdf
 learning_resource_types:

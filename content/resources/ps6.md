@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource provides problems based on ANOVA test, spanos problems
   and others.
-file: /ol-ocw-studio-app/courses/2-830j-control-of-manufacturing-processes-sma-6303-spring-2008/5324832e6bf2fd0fc9278071727566ca_ps6.pdf
+file: /courses/2-830j-control-of-manufacturing-processes-sma-6303-spring-2008/5324832e6bf2fd0fc9278071727566ca_ps6.pdf
 file_size: 43010
 file_type: application/pdf
 learning_resource_types:
