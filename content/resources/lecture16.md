@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains the information about the optimization basics,
   empirical response surface methods, variation modeling and process robustness.
-file: /courses/2-830j-control-of-manufacturing-processes-sma-6303-spring-2008/d2f1a897a8356e89bc2bf3e71b51c014_lecture16.pdf
+file: /ol-ocw-studio-app/courses/2-830j-control-of-manufacturing-processes-sma-6303-spring-2008/d2f1a897a8356e89bc2bf3e71b51c014_lecture16.pdf
 file_size: 340617
 file_type: application/pdf
 learning_resource_types:
